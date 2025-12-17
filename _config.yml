@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 browser_tab_title: Sarah Caulfield CV
-title: Sarah Caulfield - Software Engineer
 author: Sarah Caulfield
+job_title: Software Engineer
 description: Hard-working, proactive, and diligent, with top academic results. I thrive on opportunities to learn, improve and innovate. I enjoy finding ways to make applications and processes more efficient.
 css:
   - "/assets/css/style.css"
