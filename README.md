@@ -1,4 +1,4 @@
-# cv
+# digital-cv
 
 My digital CV. Visible at the below link.
 
